@@ -1,0 +1,7 @@
+type: module
+name: Intro blocks
+description: 'Provides introduction blocks.'
+package: xxxxxx
+core: 8.x
+dependencies:
+  - block
